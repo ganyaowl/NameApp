@@ -1,0 +1,3 @@
+fonts: https://fonts.google.com/specimen/Edu+AU+VIC+WA+NT+Hand?preview.text=sdfsdf
+
+color pallete: https://coolors.co/c1f7dc-c3d2d5-bda0bc-a2708a-824670
